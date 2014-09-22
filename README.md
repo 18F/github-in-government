@@ -11,6 +11,7 @@ Github Sandbox
 * [3D Models](https://github.com/blog/1465-stl-file-viewing)
   * A search across .gov sites returns a [handful of STL files](https://www.google.com/search?q=filetype:stl+site:.gov), which are [copied here to serve as examples](https://github.com/18F/github-demos/tree/master/sample_files/stl).  
 * Document Publishing
+* Data Hosting
 * Issue Tracker
 * Subscription Engine
 
@@ -38,8 +39,12 @@ Github Sandbox
 * [Blog Post Demoing This, 2](https://github.com/blog/1541-geojson-rendering-improvements)
 * [Blog Post Demoing This, 3](https://github.com/blog/1772-diffable-more-customizable-maps)
 
+### Data Hosting
+* [Blog Post on the Topic](http://ben.balter.com/2013/12/30/data-user-experience/)
+* [Blog Post on the Topic, 2](http://ben.balter.com/2013/09/16/treat-data-as-code/)
+
 ### Other Resources 
-  * [Government Open Source listserve](https://groups.google.com/forum/?nomobile=true#!forum/government-open-source)
+* [Government Open Source listserve](https://groups.google.com/forum/?nomobile=true#!forum/government-open-source)
 * [18F Open Source Policy](https://github.com/18F/open-source-policy/blob/master/policy.md)
 * [Open Source Material](http://18f.github.io/open-source-program/)
   * [Policy Documents](http://18f.github.io/open-source-program/pages/policy_documents)
