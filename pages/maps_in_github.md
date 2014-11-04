@@ -6,7 +6,8 @@
 * [GeoJSON rendering improvements](https://github.com/blog/1541-geojson-rendering-improvements)
 
 ### Government Examples 
-A search for `geojson` files on .gov sites [returns a large number of example files](https://www.google.com/search?q=filetype%3Ageojson+site%3A.gov&oq=filetype%3Ageojson+site%3A.gov&aqs=chrome..69i57j69i58.5040j0j7&sourceid=chrome&es_sm=91&ie=UTF-8#q=filetype:geojson+site:.gov&filter=0), which are [copied here](https://github.com/18F/github-in-government/tree/master/sample_files/geojson) to serve as examples.  To see them visualized, click on the individual files.  
+* [Model file from NPS](https://github.com/gbinal/npmap.js/blob/master/examples/data/simplestyle.geojson)
+* A search for `geojson` files on .gov sites [returns a large number of example files](https://www.google.com/search?q=filetype%3Ageojson+site%3A.gov&oq=filetype%3Ageojson+site%3A.gov&aqs=chrome..69i57j69i58.5040j0j7&sourceid=chrome&es_sm=91&ie=UTF-8#q=filetype:geojson+site:.gov&filter=0), which are [copied here](https://github.com/18F/github-in-government/tree/master/sample_files/geojson) to serve as examples.  To see them visualized, click on the individual files.  
 
 ### More Details
 * [How to Embed](https://github.com/blog/1541-geojson-rendering-improvements) - (Another easy method would be to [host the file as a gist](https://github.com/blog/1576-gist-meets-geojson))
