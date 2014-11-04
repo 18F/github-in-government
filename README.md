@@ -1,12 +1,9 @@
 
-## Who is Using GitHub 
+## What Agencies Are Using GitHub?  
 
-The [Social Media Registry](https://registry.usa.gov/) provides a list of GitHub accounts in the federal government.  Using it's API, [GovCode.org](https://www.govcode.org)
+[GovCode.org provides the best view](https://www.govcode.org).  It is powered  by the [Social Media Registry](https://registry.usa.gov/).  
 
-
-
-## Github Sandbox
-
+## What Can You Do With GitHub?  
 
 * [Websites](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/)
 * [Tools](http://gsa.github.io/Open-Data-Collaboration-Sandbox/tools_hosted_in_github/)
