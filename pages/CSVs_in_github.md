@@ -3,9 +3,9 @@
 
 
 ### Details 
-[See your CSVs](https://github.com/blog/1601-see-your-csvs)
-[Rendering CSV and TSV Data](https://help.github.com/articles/rendering-csv-and-tsv-data/)
-[BlogPost on the Open Data Benefits of Doing This](http://blog.okfn.org/2013/07/02/git-and-github-for-data/)
+* [See your CSVs](https://github.com/blog/1601-see-your-csvs)  
+* [Rendering CSV and TSV Data](https://help.github.com/articles/rendering-csv-and-tsv-data/)  
+* [BlogPost on the Open Data Benefits of Doing This](http://blog.okfn.org/2013/07/02/git-and-github-for-data/)  
 
 ### Functionality
 * Makes for a Better Presentation - _[Example](https://github.com/18F/API-All-the-X/blob/gh-pages/_data/agency_progress.csv)_
