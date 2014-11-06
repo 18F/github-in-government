@@ -1,7 +1,7 @@
 
 ## What Agencies Are Using GitHub?  
 
-[GovCode.org] provides the best view(https://www.govcode.org). _[powered  by the [Social Media Registry](https://registry.usa.gov/)]_  
+[GovCode.org](https://www.govcode.org) provides the best view. _[powered  by the [Social Media Registry](https://registry.usa.gov/)]_  
 
 ## What Can You Do With GitHub?  
 
