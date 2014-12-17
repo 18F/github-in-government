@@ -24,7 +24,8 @@
 
 ### GitHub Material 
 * [GitHub Demos](https://github.com/18F/github-demos)
-* [Loose GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks/)
+* [GitHub Tips and Tricks](https://github.com/18F/github-in-government/blob/master/tips_and_tricks.md)
+* [Other Loose GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks/)
 * [Government GitHub Activity](http://www.govcode.org/)
 * [Government.GitHub.com](https://government.github.com/)
 * [How to Join the Peer Group](https://github.com/government/welcome#readme)
