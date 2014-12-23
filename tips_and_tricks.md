@@ -8,3 +8,4 @@
 
 ### Markdown 
 * [Cheatsheet](https://help.github.com/articles/github-flavored-markdown/)
+* [Markdown Resources on a Basic Markdown GitHub Page](https://github.com/leahbannon/markdown-page)
