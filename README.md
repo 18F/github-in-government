@@ -23,6 +23,7 @@
 ## Other Links 
 
 ### GitHub Material 
+* [Hacking GitHub](http://ben.balter.com/2015/01/11/hacking-github)
 * [GitHub Demos](https://github.com/18F/github-demos)
 * [GitHub Tips and Tricks](https://github.com/18F/github-in-government/blob/master/tips_and_tricks.md)
 * [Other Loose GitHub Tips and Tricks](http://gsa.github.io/Open-Data-Collaboration-Sandbox/github_tips_and_tricks/)
