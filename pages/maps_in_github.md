@@ -13,4 +13,5 @@
 * [How to Embed](https://github.com/blog/1541-geojson-rendering-improvements) - (Another easy method would be to [host the file as a gist](https://github.com/blog/1576-gist-meets-geojson))
 * [GitHub Help Pages](https://help.github.com/articles/mapping-geojson-files-on-github/)
 * [How to Convert Shapefiles To GeoJSON](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/)
+* [Example data dashboard made from geojson](http://jjediny.github.io/geojson-dashboard/)
 * [Much more information...](https://www.google.com/search?q=geojson+in+github)
